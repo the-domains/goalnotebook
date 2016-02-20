@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Set a goal and achieve it.]]></title>
         <description><![CDATA[Set a goal and achieve it.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.goalnotebook.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 20:46:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 20:49:33 GMT</lastBuildDate>
+        <atom:link href="http://www.goalnotebook.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Lessons in Zen Leadership Practiced by Legendary Coach Phil Jackson]]></title>
+            <description><![CDATA[<article><h1>10 Lessons in Zen Leadership Practiced by Legendary Coach Phil Jackson</h1><p>What makes a good leader whether it's a boss, or a coach, or a parent? Typically we imagine a leader as someone who stands strong, demands our attention and respect, and perhaps even sparks a little intimidation or fear. This "alpha model" of leadership can be very effective, but it's not the only form of leadership.</p><img src="http://www.theemotionmachine.com/wp-content/uploads/mindful-leadership.jpg"></article>]]></description>
+            <link>http://www.theemotionmachine.com/10-lessons-in-zen-leadership-practiced-by-legendary-coach-phil-jackson</link>
+            <guid isPermaLink="false">f1d00312-2c8a-4b65-83f7-0f0f193bce78</guid>
+            <pubDate>Sat, 20 Feb 2016 20:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our goal's job, by @cobyism]]></title>
-            <description><![CDATA[<article><h1>Our goal's job, by @cobyism</h1><p>Our goal's job February 19, 2016 · 1.185 min read What is a goal actually for? First off, a goal is for getting us moving. Picking a goal, and making a start in that direction-even if it isn't the "right" goal (whatever that means)-at least gets us moving forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6a41d22fab8e27b7ae26dc74afce81cb31fda73.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Our goal's job, by @cobyism</h1><p>Our goal's job February 19, 2016 · 1.185 min read What is a goal actually for? First off, a goal is for getting us moving. Picking a goal, and making a start in that direction-even if it isn't the "right" goal (whatever that means)-at least gets us moving forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65c7c68a1bb14d14c38105dfdd341c1a3c7ab031.jpg"></article>]]></description>
             <link>http://cobyism.com/blog/our-goals-job/</link>
             <guid isPermaLink="false">e89ca518-11e7-4a1c-815f-2f1dcaa55849</guid>
             <pubDate>Sat, 20 Feb 2016 20:46:09 GMT</pubDate>
