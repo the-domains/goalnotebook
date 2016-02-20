@@ -1,0 +1,28 @@
+name: Goal Notebook
+favicon: null
+layout_spectrum: 0.9799399324692786
+typography_spectrum: 0.5889623078983277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3162983905058354
+  lightness: 0.6250321655534208
+  saturation: 0.27083191741257906
+  rhythmicContrast: 0.018838006304576993
+purpose: []
