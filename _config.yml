@@ -2,12 +2,13 @@ name: Goal Notebook
 favicon: null
 layout_spectrum: 0.9799399324692786
 typography_spectrum: 0.5889623078983277
+title: Set a goal and achieve it.
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74110109-1
   facebook: null
   twitter: null
 opengraph:
