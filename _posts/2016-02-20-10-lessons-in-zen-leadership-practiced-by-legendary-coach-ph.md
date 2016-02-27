@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Steven Handel
-    url: 'http://www.theemotionmachine.com/author/stevenhandel'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.theemotionmachine.com'
-  name: Theemotionmachine
-  favicon: 'http://www.theemotionmachine.com/wp-content/mbp-favicon/newicon3.png'
-  domain: www.theemotionmachine.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.theemotionmachine.com/10-lessons-in-zen-leadership-practiced-by-legendary-coach-phil-jackson'
+inLanguage: en
+starred: false
 keywords:
   - jackson
   - players
@@ -21,17 +17,23 @@ keywords:
   - rituals
   - leadership
 description: "What makes a good leader whether it's a boss, or a coach, or a parent? Typically we imagine a leader as someone who stands strong, demands our attention and respect, and perhaps even sparks a little intimidation or fear. This \"alpha model\" of leadership can be very effective, but it's not the only form of leadership."
-inLanguage: en
+datePublished: '2016-02-27T12:21:43.802Z'
+dateModified: '2016-02-20T20:49:03.478Z'
+author:
+  - name: Steven Handel
+    url: 'http://www.theemotionmachine.com/author/stevenhandel'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.theemotionmachine.com/10-lessons-in-zen-leadership-practiced-by-legendary-coach-phil-jackson'
 title: 10 Lessons in Zen Leadership Practiced by Legendary Coach Phil Jackson
-datePublished: '2016-02-20T20:48:55.945Z'
-dateModified: '2016-02-20T20:47:12.641Z'
 sourcePath: _posts/2016-02-20-10-lessons-in-zen-leadership-practiced-by-legendary-coach-ph.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Theemotionmachine
+  domain: www.theemotionmachine.com
+  url: 'http://www.theemotionmachine.com'
+  favicon: 'http://www.theemotionmachine.com/wp-content/mbp-favicon/newicon3.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
